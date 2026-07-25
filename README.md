@@ -59,7 +59,8 @@ rainy,75.0,80.0,false,yes
 ## OUTPUT:
 #### emp:
 <img width="1235" height="832" alt="image" src="https://github.com/user-attachments/assets/ad2cbb38-6a16-4121-9390-81ec1fd1dfa2" />
-<br>
+
+
 #### weather:
 <img width="1255" height="922" alt="image" src="https://github.com/user-attachments/assets/952fa5b5-b78a-4b77-a383-efb91b22d2e9" />
 
